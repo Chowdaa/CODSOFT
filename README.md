@@ -7,9 +7,7 @@ Welcome to the CODSOFT Internship Tasks repository! This repository contains the
 - [Overview](#overview)
 - [Task List](#task-list)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
@@ -89,7 +87,8 @@ Fork the repository.
     Push to the branch (git push origin feature-branch).
     Open a Pull Request.
 Please make sure your code adheres to the coding standards and conventions used in this repository.
-Contact
+
+##Contact
 For any questions or inquiries, please contact:
 
 Name: [Chowda Reddy N]
