@@ -88,11 +88,11 @@ Fork the repository.
     Open a Pull Request.
 Please make sure your code adheres to the coding standards and conventions used in this repository.
 
-##Contact
+## Contact
 For any questions or inquiries, please contact:
 
-Name: [Chowda Reddy N]
-Email: [reddyreddy44477@gmail.com]
+-Name: Chowda Reddy N
+-Email: reddyreddy44477@gmail.com
 Feel free to reach out if you have any questions or need further assistance!
 
 Thank you for checking out this repository. Happy coding!
